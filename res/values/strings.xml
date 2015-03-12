@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">drawLines</string>
+    <string name="action_settings">Settings</string>
+    <string name="input3_3">3*3</string>
+    <string name="input4_4">4*4</string>
+    <string name="input5_5">5*5</string>
+    <string name="input6_6">6*6</string>
+    <string name="input7_7">7*7</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--  <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>-->
+    
+    <item
+        android:id="@+id/input3"
+        android:title="@string/input3_3"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/input4"
+        android:title="@string/input4_4"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/input5"
+        android:title="@string/input5_5"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/input6"
+        android:title="@string/input6_6"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/input7"
+        android:title="@string/input7_7"
+        android:showAsAction="never"/>
+    
+
+</menu>
